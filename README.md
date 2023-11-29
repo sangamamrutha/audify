@@ -1,8 +1,7 @@
 # audify.github.io
 
 
-Clicke here to see the demo : [https://sangamamrutha.github.io/audify.github.io/]
-
+Clicke here to see the demo : https://sangamamrutha.github.io/audify.github.io/
 The project is a web application that performs real-time speech-to-text conversion. Users can speak into their microphone, and the application will transcribe their speech into text. The interface is designed to be user-friendly, with a clean layout and intuitive controls.
 
 Technologies Used:
