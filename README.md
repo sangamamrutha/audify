@@ -5,7 +5,9 @@ Click here to see the demo : https://sangamamrutha.github.io/audify.github.io/
 The project is a web application that performs real-time speech-to-text conversion. Users can speak into their microphone, and the application will transcribe their speech into text. The interface is designed to be user-friendly, with a clean layout and intuitive controls.
 
 Technologies Used:
-  - HTML5 for structuring the web page  - CSS for styling  - JavaScript for dynamic behaviour, language selection, and handling speech recognition.
+  - HTML5 for structuring the web page
+  - CSS for styling
+  - JavaScript for dynamic behaviour, language selection, and handling speech recognition.
 
 Libraries and APIs:
   - Ionicons library (version 5.5.2) for including icons in the UI.
